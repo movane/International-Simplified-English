@@ -1,0 +1,73 @@
+一、映射规则
+单字优先
+选择中文 独立表意的最小单字（如“人、水、走”），而非复合词（如“人民、水果”）。
+
+核心语义
+提取单字最基础的 1-2个核心含义（如“打”对应“hit”，而非“play basketball”中的“play”）。
+
+词性简化
+统一使用 名词或动词原形，通过语法规则（而非词形变化）扩展功能。
+
+二、分类映射示例
+1. 自然与物体
+分类	中文单字	拼音	ISE英文词根	词性	构词逻辑
+自然	日	rì	sun	n.	直接借用（太阳）
+月	yuè	moon	n.	直接借用
+物体	门	mén	door	n.	直接借用
+书	shū	book	n.	直接借用
+2. 动作与状态
+分类	中文单字	拼音	ISE英文词根	词性	构词逻辑
+动作	走	zǒu	walk	v.	直接借用
+飞	fēi	fly	v.	直接借用
+状态	大	dà	big	adj.	直接借用
+快	kuài	fast	adj.	直接借用
+3. 抽象概念
+分类	中文单字	拼音	ISE英文词根	词性	构词逻辑
+数量	一	yī	one	num.	直接借用
+时间	年	nián	year	n.	直接借用
+逻辑	因	yīn	cause	n.	语义覆盖（原因→cause）
+三、复合词构建示例
+通过 单字组合 生成复杂词汇，模仿中文构词法：
+
+中文复合词	单字拆分	ISE组合词	英文原词
+电脑	电 + 脑	electro-brain	computer
+手机	手 + 机	hand-machine	mobile phone
+飞机	飞 + 机	fly-machine	airplane
+四、特殊处理
+一词多义
+
+例：中文“打”（dǎ）对应多个英文动作：
+
+hit（击打）
+
+make（打电话→make-call）
+
+play（打篮球→play-ball）
+
+规则：优先选择 最基础含义（hit），其他含义通过组合表达。
+
+文化差异词
+
+例：中文“龙”（lóng）对应 “loong”（与英文“dragon”语义分离），避免负面文化联想。
+
+无直接对应词
+
+例：中文“气”（qì）译为 “qi”（拼音直译），保留文化独特性。
+
+五、完整词表示例（节选）
+中文单字	拼音	ISE词根	词性	英文原意	复合词示例
+人	rén	person	n.	human	人们→person-men
+水	shuǐ	water	n.	water	水果→water-fruit
+学	xué	learn	v.	learn	学生→learn-life（life=生）
+六、优势与挑战
+优势
+
+直观性：中文母语者可快速联想（如“电→electro”）。
+
+扩展性：通过组合生成新词（如“AI→smart-mind”）。
+
+挑战
+
+语义偏差：直译可能导致歧义（如“手机→hand-machine”可能被误解为“机械手”）。
+
+接受度：需平衡传统英语习惯与创新规则。
